@@ -1,5 +1,9 @@
 ### Olá eu sou o Gustavo Ribeiro 👋🏻
 
+•	Cursando Sistemas de Informação 🚀
+•	Estudo Focado Em Programação 🔥
+•	Back End 💻
+
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoDevFTED&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoDevFTED)](https://github.com/anuraghazra/github-readme-stats)
